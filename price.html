@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+
+    <title>Mengran's portfolio</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/animate.min.css">  
+</head>
+
+<body>
+<!--
+    <a href="index.html#work"><button id="homeBtn"></button></a>
+    <a href="researchline.html" class="pre"><img src="assets/img/icon/prew2.png" ></a>
+    <a href="ui.html" class="nex"><img src="assets/img/icon/nextw2.png" ></a>
+-->
+    <div id="titletop">
+        <a href="index.html"><img src="assets/img/portfolio/logo.png" style="width:50px; height:55px; top:50px; left:100px;position: fixed"></a>
+        <div class="container">
+        </div>
+    </div>
+    
+    <div id="projectInfo">
+        <div class="container">
+            <div class="row centered">
+                <div class="col-sm-12">
+                <h1>Price breaking review system</h1>
+                <h3>System</h3>
+                </div>
+            </div>
+            <div class="row mb">
+                <div class="col-sm-8 col-lg-offset-2">
+                    <p class="text-justify">由于保价期的原因，参与活动的商品在设置价格时会有破价风险，破价会给公司带来巨大损失。为了防止这种行为，我设计了一个保价监控助手，帮助提前发现破价行为，阻止损失。</p>
+                    <p>Output: <a href="https://lanhuapp.com/url/vxOGD-xchYu" target="_blank"> Project Report</a>，<a href="https://lanhuapp.com/url/vxOGD-xchYu" target="_blank">Prototype</a></p>
+                </div>
+                <div class="col-sm-2 infoRole">
+                    <h4>Mar.2019 - Aug.2019</h4>
+                    <h4>Hangzhou, China</h4>
+                    <br/>
+                    <h4>My role:</h4>
+                    <h4>user research</h4>
+                    <h4>user experience design</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="titleCon">      
+      <div class="container">
+		<div class="row centered mt">
+			<div class="col-lg-12">
+				<h4>Project background</h4>
+			</div>
+		</div>
+        <div class="row">
+			<div class="col-lg-8 col-lg-offset-2">
+                <p class="text-justify">由于淘宝保价期的设置，公司参与活动的商品会有破价风险从而造成最大财务损失。</p>
+			</div>
+		</div><!--/row -->
+
+		<div class="row centered mt">
+			<div class="col-lg-12"> 
+				<h4>Pain points in current business</h4>
+			</div>
+		</div>
+        
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <p class="text-justify">店铺运营现有的业务流程是混乱的：</p>
+                <p class="text-justify">运营在活动开始前设置活动价格，当活动结束时，运营人员登录数据库，修改价格，避免破价行为发生. </p>
+                
+                <p>Pain points in current business:</p> 
+                <span class="emphasis">
+                    <ol>
+                    <li>Inefficiency: 参与活动商品多，人为监控破价行为，效率低 </li>
+                    <li>Delay: 无法在活动结束时及时修改价格，易出发破价行为 </li>
+                    </ol>
+                </span>
+            </div>
+        </div>
+
+        <div class="row centered mt">
+			<div class="col-lg-12">
+				<h4>Solution: Price breaking review system</h4>
+			</div>
+		</div>
+            
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <p class="text-justify">保价监控系统：通过数据抓取最新价格，跟当前状况对比，及时发现破价行为。</p>
+                <p>Three moduls in the system:</p>
+                <ol>
+                    <li>Review: 所有参与活动的商品价格实时更新，实时监控.</li>
+                    <li>History record: 价格修改的所有操作的在这个页面记录. </li>
+                    <li>Dingding message</li>
+                </ol>
+            </div>
+        </div>
+          
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <p class="text-justify">Prototype：some UI pages <a href="https://lanhuapp.com/url/vxOGD-xchYu" target="_blank"></a></p> 
+            </div>
+        </div>
+         
+        </div>
+    </div>
+
+    <!--to the top-->
+    <a href="#" class="scrollToTop"></a>
+     
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>
+        jQuery(document).ready(function() {
+            var offset = 250;
+            var duration = 300;
+            
+         jQuery(window).scroll(function() {
+            if (jQuery(this).scrollTop() > offset) {
+         jQuery('.scrollToTop').fadeIn(duration);
+            } else {
+         jQuery('.scrollToTop').fadeOut(duration);
+         }
+         });
+
+         jQuery('.scrollToTop').click(function(event) {
+         event.preventDefault();
+         jQuery('html, body').animate({scrollTop: 0}, duration);
+         return false;
+        })
+        });
+    </script>
+         
+    <div id="footerwrap">
+		<div class="container"> 
+             <div class="row centered">  
+                 <div class="col-lg-8 col-ml-8 col-lg-offset-2">
+                    <a href="title.html"><img src="assets/img/portfolio/pre.png"></a>
+                    <a href="index.html"><img src="assets/img/portfolio/home.png"></a>
+                    <a href="fabby.html" ><img src="assets/img/portfolio/nex.png"></a>
+                 </div>
+            </div>
+            <div class="row centered"> 
+                 <div class="col-lg-4 col-ml-4 col-lg-offset-4" style="margin-top: 30px;">         
+                    <h5>Designed & Coded by Mengran</h5>
+                 </div>
+             </div>
+		</div>
+	</div><!--/footerwrap -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+  
+    </body>
+</html>

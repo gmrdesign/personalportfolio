@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1248px" height="127px" viewBox="0 0 1248 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-137.000000, -1976.000000)">
+            <g id="Group-2" transform="translate(137.000000, 1971.000000)">
+                <text id="User-research" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#404040">
+                    <tspan x="78.552" y="65">User research</tspan>
+                </text>
+                <text id="Sketch,-personas-and" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#404040">
+                    <tspan x="330.82" y="23">Sketch, </tspan>
+                    <tspan x="298.372" y="51.6719971">personas and </tspan>
+                    <tspan x="307.492" y="80.3439941">storyboards</tspan>
+                </text>
+                <text id="Wireframe" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#404040">
+                    <tspan x="529.793134" y="65">Wireframe</tspan>
+                </text>
+                <text id="Usability-testing" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#404040">
+                    <tspan x="920.469134" y="52">Usability </tspan>
+                    <tspan x="930.237134" y="80.6719971">testing</tspan>
+                </text>
+                <text id="Redesign" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#404040">
+                    <tspan x="1104.552" y="69">Redesign</tspan>
+                </text>
+                <text id="Prototype" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#404040">
+                    <tspan x="721.417789" y="65">Prototype</tspan>
+                </text>
+                <path d="M0.5,121.450348 L1247.5,121.450348" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <circle id="Oval" fill="#FFCA00" cx="156" cy="122" r="10"></circle>
+                <circle id="Oval" fill="#FFCA00" cx="370" cy="121.450348" r="10"></circle>
+                <circle id="Oval" fill="#FFCA00" cx="584" cy="121.450348" r="10"></circle>
+                <circle id="Oval" fill="#FFCA00" cx="774" cy="121.450348" r="10"></circle>
+                <circle id="Oval" fill="#FFCA00" cx="966" cy="121.450348" r="10"></circle>
+                <circle id="Oval" fill="#FFCA00" cx="1157" cy="121.450348" r="10"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
