@@ -689,15 +689,15 @@ Data filter
 }
 
 .ch-img-6 { 
-	background-image: url(../img/portfolio/light.jpg);
-}
-
-.ch-img-7 { 
 	background-image: url(../img/portfolio/room.jpg);
 }
 
-.ch-img-8 { 
+.ch-img-7 { 
 	background-image: url(../img/portfolio/followU.jpg);
+}
+
+.ch-img-8 { 
+	background-image: url(../img/portfolio/light.jpg);
 }
 
 .ch-img-9 { 
