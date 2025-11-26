@@ -74,7 +74,7 @@ src:
 
 .close:hover,
 .close:focus {
-  color: #999;
+  /*color: #999;*/
   text-decoration: none;
   cursor: pointer;
 }
